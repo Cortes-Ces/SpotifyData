@@ -25,3 +25,4 @@ Creating an array and putting together a small project that creates and inputs i
 
 ## Folder Structure
 - Code is saved into the src folder.
+- Data is saved into the data folder.
