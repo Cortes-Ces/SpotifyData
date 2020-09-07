@@ -2,6 +2,11 @@ import java.io.*;
 
 
 /**
+ * Class: CISC 3130
+ * Section:TY9
+ * EmplId:23335766
+ * Name:Cesar Cortes
+ *
  * I tried creating a 2D Java array.
  * This was the best I could do.
  * I need to further refresh my memory on 2d arrays
