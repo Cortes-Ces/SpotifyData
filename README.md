@@ -1,6 +1,6 @@
 # SpotifyData
-csvSpotify.java reads from the spotify viral week csv file and stores the artist names and creates a new text file with the artists names.
 <space> Lab #2 for the CISC 3130 Course section TY-9.\
+csvSpotify.java reads from the spotify viral week csv file and stores the artist names and creates a new text file with the artists names.\
 I created an array and put together a small project that uses the BufferedReader to read from the csv file.\
 I created the text file by using File class.\
 Using the PrintStream I was able to save the data in the text file.  
