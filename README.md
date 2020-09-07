@@ -22,3 +22,6 @@ Creating an array and putting together a small project that creates and inputs i
 
 ## Dependencies
 - Java 8 
+
+## Folder Structure
+- Code is saved into the src folder.
