@@ -4,7 +4,7 @@ csvSpotify.java reads from the spotify viral week csv file and stores the artist
 ## Lab #2 for the CISC 3130 Course section TY-9
 Creating an array and putting together a small project that creates and inputs information into a new text file.
 
-## Installation
+## Installation & Setup
 - Download the csvSpotify.java
 - Download the csv file viral-global-daily-latest.csv
 - Once you download the csv file, save it on your desktop and save the file location.
