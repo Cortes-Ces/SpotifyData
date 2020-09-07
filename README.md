@@ -8,7 +8,7 @@ Creating an array and putting together a small project that creates and inputs i
 - Download the csvSpotify.java
 - Download the csv file viral-global-daily-latest.csv
 - Once you download the csv file, save it on your desktop and save the file location.
-- Delete previous file location and paste the new file location in line 15 of the csvSpotify.java code
+- Delete previous file location and paste the new file location in line 20 of the csvSpotify.java code
 - Example if file location is C:\Users\Files\viral-global-daily-latest.csv then paste the file in between the " ".
 - Run the code and the program will create a new text file showing the top 50 artists of that given week.
 
