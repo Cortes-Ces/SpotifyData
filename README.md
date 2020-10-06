@@ -27,3 +27,8 @@ Using the PrintStream I was able to save the data in the text file.
 ## Folder Structure
 - Code is saved into the src folder.
 - Data is saved into the data folder.
+
+## Updates
+- Updated the program by creating list of artist name.
+- Added collection sorts for ascending order of artist's names from A to Z
+- Added trim method to trim white spaces in artists names.
